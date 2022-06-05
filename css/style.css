@@ -181,6 +181,9 @@ footer {
   .subtitulo {
     font-size: 3rem;
   }
+  .conteudo-apresentacao img{
+    order: -1;
+  }
 }
 
 @media (max-width: 400px) {
